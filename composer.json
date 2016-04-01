@@ -9,5 +9,8 @@
             "name": "Sergey Sachik",
             "email": "serega3000@gmail.com"
         }
-    ]  
+    ],
+    "autoload": {
+        "psr-4": { "Serega3000\\TwigGrid\\": "" }
+    }
 }
