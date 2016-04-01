@@ -1,0 +1,13 @@
+{
+    "name": "serega3000/twig-grid",
+    "type": "library",
+    "description": "Twig extension for bootstrap grid layout",
+    "homepage": "https://symfony.com",
+    "license": "https://github.com/serega3000/twig-grid",
+    "authors": [
+        {
+            "name": "Sergey Sachik",
+            "email": "serega3000@gmail.com"
+        }
+    ]  
+}
