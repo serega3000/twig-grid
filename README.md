@@ -31,7 +31,7 @@ You also can add your own CSS class to column, for example, "lg4 md8 sm6 my-clas
 
 Require in composer
 
-	composer require serega3000/twig-grid:~1.0
+	composer require serega3000/twig-grid:^1.0
 
 Register as twig extension:
 
