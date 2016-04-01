@@ -2,7 +2,7 @@
 
 namespace Serega3000\TwigGrid;
 
-class Extension extends Twig_Extension
+class Extension extends \Twig_Extension
 {    
     public function getTokenParsers()
     {
