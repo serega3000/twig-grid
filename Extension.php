@@ -7,8 +7,8 @@ class Extension extends \Twig_Extension
     public function getTokenParsers()
     {
         return array(
-            RowParser(),
-            ColumnParser()
+            new RowParser(),
+            new ColumnParser()
         );
     }
     
