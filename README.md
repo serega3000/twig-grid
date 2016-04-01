@@ -1,4 +1,4 @@
-#Twig extension for creating grid layout
+#Twig extension for bootstrap grid layout
 
 To write this code
 
